@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мой Бизнес-сайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        nav {
+            background-color: #666;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+        
+        section {
+            padding: 20px;
+        }
+        
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на мой Бизнес-сайт!</h1>
+    </header>
+    
+    <nav>
+        <a href="#">Главная</a>
+        <a href="#">О нас</a>
+        <a href="#">Услуги</a>
+        <a href="#">Контакты</a>
+    </nav>
+    
+    <section>
+        <h2>О нас</h2>
+        <p>Мы предоставляем высококачественные услуги для Вашего бизнеса.</p>
+    </section>
+    
+    <section>
+        <h2>Услуги</h2>
+        <ul>
+            <li>Веб-разработка</li>
+            <li>Мобильная разработка</li>
+            <li>Дизайн</li>
+            <li>Маркетинг</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Контакты</h2>
+        <p>Телефон: 123-456-789</p>
+        <p>Email: info@mybusiness.com</p>
+    </section>
+    
+    <footer>
+        <p>© 2021 Мой Бизнес-сайт. Все права защищены.</p>
+    </footer>
+</body>
+</html>
